@@ -1,0 +1,94 @@
+
+#contenidos{
+
+	width: 100px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	background:  red;
+}
+
+body{
+background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+	font-color: white;
+font-family: "Shadows Into Light", cursive;
+margin-left: 10px;
+font-size: 20px; 
+text-align: center;
+}
+
+h2{
+font-color: white;
+font-family: "Indie flower", cursive;
+margin-left: 10px;
+font-size: 20px; 
+text-align: left;
+}
+
+header{
+	width: 1000px;
+	height: 120px;
+	background: gray;
+}
+
+nav{
+width: 1000px;
+height: 50px;
+background: red;
+border-radius: 10px;
+}
+
+ul{
+margin: auto;
+padding-top: 4px;
+}
+
+li{
+float: left;
+list-style-type: none;
+padding: 10px;
+background: black;
+margin: 3px;
+border-radius: 10px;
+box-shadow: 0 0 10px white inset;
+}
+
+/*clase*/
+.ancho_menu{width: 900px;}
+.ancho_menu_paginas{width: 970;}
+
+.munu:link{padding:7px; color: white; text-decoration: none;}
+.munu:visited{padding:7px; color: white; text-decoration: none;}
+.munu:hover{padding:7px; color: white; text-decoration: none;}
+.munu:active{padding:7px; color: white; text-decoration: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
