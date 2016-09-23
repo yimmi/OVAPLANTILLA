@@ -1,0 +1,137 @@
+
+#contenidos{
+
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+	margin-top: 55px;
+	
+}
+/*etiquetas*/
+body{
+background-image: url(../img/fondo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+
+/*font-family: "Shadows Into Light", verdana;*/
+color: white;
+/*margin-left: 5px;*/
+font-size: 30px; 
+text-align: center;
+margin-top: 170px;
+background: #0033ff;
+
+}
+
+h2{
+/*font-family: "Indie flower", verdana;*/
+color: black;
+
+font-size: 25px; 
+text-align: left;
+margin-top: 50px;
+border-radius: 10px;
+}
+
+h3{
+
+/*font-family: "Indie flower", verdana;*/
+color: white;
+font-size: 13px; 
+text-align: center;
+}
+
+header{
+	font-color: SteelBlue;
+	width: 1000px;
+	height: 120px;
+	margin-top: 15px;
+	
+	background: rgba(255, 255, 255, 3.5);
+	border-radius: 10px;
+}
+
+ul{
+/*margin: auto;*/
+padding-top: 4px;
+margin-top: 5px;
+}
+
+li{
+float: left;
+list-style-type: none;
+padding: 10px;
+background: SteelBlue;
+margin: 2px;
+box-shadow: 0 0 8px red inset;
+border-radius: 7px;
+
+}
+
+section{
+	width: 1000px;
+	height: 400px;
+	background: gray;
+	float: left;
+	border-radius: 10px;
+	
+	
+}
+
+
+footer{
+	width: 1000px;
+	height: 30px;
+	background: black;
+	float: left;
+	margin-top: 250px;
+	border-radius: 10px;
+
+}
+p{
+	width: 1000px;
+	height: autopx;
+	font-size: 17px;
+	font: black;
+	line-height:24px;
+	padding: 15px;
+	text-align: justify;
+	background: GhostWhite;
+	margin-top: 450px;
+}
+
+/*clase*/
+.ancho_menu_home{width: 1000px;}
+.ancho_menu_paginas{width: 70px;}
+
+.menu:link{color: black; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{ color: white; text-decoration: none; text-shadow: 0 0 5px white; }
+.menu:active{color: white; text-decoration: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
